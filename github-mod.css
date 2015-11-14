@@ -117,7 +117,7 @@
         top: 0;
     }
     body {
-        padding-top: 50px;
+        padding-top: 50px !important;
     }
     .header-logged-in {
         background-image: none;
@@ -135,7 +135,7 @@
         border-bottom: 1px solid #E5E5E5;
     }
     body {
-        padding-top: 62px;
+        padding-top: 62px !important;
     }
     .dev-program.feature h1 {
         width: 650px;
